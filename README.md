@@ -24,6 +24,8 @@ Tecnologias e Ferramentas que consigo trabalhar:
 </a>
 
 
+
+
 Estou aprendendo:
 
 <a href="" alt="Python" target="_blank">
@@ -31,6 +33,8 @@ Estou aprendendo:
 </a> <a href="" alt="Java" target="_blank">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </a>
+
+
 
 
 Também já fiz projetos usando:
