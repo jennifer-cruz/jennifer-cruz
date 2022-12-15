@@ -4,5 +4,5 @@ Me chamo Jennifer, estou iniciando na área de programação, tenho como foco se
 
 
 
-          <a> href="https://www.linkedin.com/in/jennifercruz-"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  /> </a>
+          <a href="https://www.linkedin.com/in/jennifercruz-"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
           
