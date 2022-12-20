@@ -32,7 +32,8 @@ Estou aprendendo:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </a> <a href="" alt="Java" target="_blank">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-</a>
+</a> <a href="" alt="NodeJS" target="_blank">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> </a>
 
 
 
@@ -46,8 +47,7 @@ Também já fiz projetos usando:
 </a> <a href="" alt="Amazon AWS" target="_blank">
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> </a> <a href="" alt="Blogger" target="_blank">
   <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"> </a> <a href="" alt="Wordpress" target="_blank">
-  <img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white"> </a> <a href="" alt="NodeJS" target="_blank">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> </a>
+  <img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white"> </a> 
 
 
 
