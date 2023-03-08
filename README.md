@@ -1,10 +1,21 @@
-## Hello, World! 😄
+# Hello, World! 👩🏽‍💻
 
 
-Me chamo Jennifer, estou iniciando na área de programação, tenho como foco ser desenvolvedora front-end, mas também faço cursos voltados para back-end e mobile, inclusive estou iniciando meus estudos em Python e Java. 
+Me chamo Jennifer, estou iniciando na área de programação, tenho como foco ser desenvolvedora Full-stack.
 
+<div align="center">
+  <a href="https://github.com/jennifer-cruz">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jennifer-cruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true."/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennifer-cruz&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true."/>
+</div>
 
-Tecnologias e Ferramentas que consigo trabalhar:
+<div align="center"> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+  
+### Tecnologias e Ferramentas que consigo trabalhar:
 
 <a href="" alt="HTML5" target="_blank">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -24,12 +35,8 @@ Tecnologias e Ferramentas que consigo trabalhar:
 </a>
 
 
-
-
-Estou aprendendo:
-
-<a href="" alt="Python" target="_blank">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+### Estou aprendendo:
+  
 </a> <a href="" alt="Java" target="_blank">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </a> <a href="" alt="NodeJS" target="_blank">
@@ -37,8 +44,7 @@ Estou aprendendo:
 
 
 
-
-Também já fiz projetos usando:
+### Também já fiz projetos usando:
 
 <a href="" alt="AngularJS" target="_blank">
   <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
@@ -49,3 +55,9 @@ Também já fiz projetos usando:
   <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"> </a> <a href="" alt="Wordpress" target="_blank">
   <img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white"> </a> 
 
+  
+  
+  ### Deixo abaixo meus contatos: 😄
+  <div> 
+  <a href = "mailto:jennifermrcruz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jennifercruz-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
