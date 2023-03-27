@@ -68,7 +68,7 @@
 
   
   
-  ### Deixo abaixo meus contatos: 😄
+  ### 😄 Curtiu o meu perfil? Deixo abaixo meus contatos para me acompanhar nessa jornada:
   <div> 
   <a href = "mailto:jennifermrcruz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jennifercruz-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
