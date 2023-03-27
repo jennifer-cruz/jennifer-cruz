@@ -6,7 +6,7 @@
 
 👩‍💻 Estou atuando em 2 programas voluntários:
 - Mentoria para a galera da quebrada a entrarem no mundo Tech;
-- Gestora/mentora do time de desenvolvimento da empresa.
+- Gestora/mentora do time de Desenvolvedores da empresa.
 
 🥰 Ainda é o começo dessa jornada tecnológica, buscando aprender cada vez mais sobre programação, ferramentas, linguagens e desenvolvimento ágil. Vou me jogando nos desafios e não vejo limite para me desenvolver em algo novo. 
 
