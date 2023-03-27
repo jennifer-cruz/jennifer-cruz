@@ -1,7 +1,18 @@
 # Hello, World! 👩🏽‍💻
 
+👋 seja bem vindo(a) ao meu perfil! 
 
-Me chamo Jennifer, estou iniciando na área de programação, tenho como foco ser desenvolvedora Full-stack.
+🔎 Atualmente estou me desafiando e trilhando meu caminho como Desenvolvedora Fullstack, tenho foco em Front-end, mas estou me aventurando em aprender sobre Back-end e Mobile, inclusive estou estudando também para entender como funciona Java. 😮😮
+
+👩‍💻 Estou atuando em 2 programas voluntários:
+- Mentoria para a galera da quebrada a entrarem no mundo Tech;
+- Gestora/mentora do time de desenvolvimento da empresa.
+
+🥰 Ainda é o começo dessa jornada tecnológica, buscando aprender cada vez mais sobre programação, ferramentas, linguagens e desenvolvimento ágil. Vou me jogando nos desafios e não vejo limite para me desenvolver em algo novo. 
+
+💪 Acredito no meu potencial para ir cada vez mais longe na área de TI. A cada dia venho amadurecendo profissionalmente e aprendendo coisas interessantes para o meu progresso.
+
+🏆 Destaco-me pela minha proatividade, criatividade, organização, responsabilidade, flexibilidade, busca de crescimento e aprendizados.
 
 <div align="center">
   <a href="https://github.com/jennifer-cruz">
@@ -15,7 +26,7 @@ Me chamo Jennifer, estou iniciando na área de programação, tenho como foco se
  
 </div>
   
-### Tecnologias e Ferramentas que consigo trabalhar:
+### Desde o inicio da minha jornada já tive contato com as seguintes ferramentas e linguagens:
 
 <a href="" alt="HTML5" target="_blank">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
