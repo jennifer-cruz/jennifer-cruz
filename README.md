@@ -1,5 +1,7 @@
 # Hello, World! 👩🏽‍💻
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FE2E9A&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Full+Stack+Júnior+!)](https://git.io/typing-svg)
+
 👋 seja bem vindo(a) ao meu perfil! 
 
 🔎 Atualmente estou me desafiando e trilhando meu caminho como Desenvolvedora Fullstack, tenho foco em Front-end, mas estou me aventurando em aprender sobre Back-end e Mobile, inclusive estou estudando também para entender como funciona Java. 😮😮
