@@ -7,8 +7,8 @@
 🔎 Atualmente estou me desafiando e trilhando meu caminho como Desenvolvedora Full stack, tenho foco em Front-end, mas estou me aventurando em aprender sobre Back-end e Mobile, inclusive estou estudando também para entender como funciona Java. 😮😮
 
 👩‍💻 Estou atuando em 2 programas voluntários:
-- Mentoria para a galera da quebrada a entrarem no mundo Tech;
-- Gestora/mentora do time de Desenvolvedores da empresa.
+- Mentoria para a galera entrarem no mundo Tech;
+- Gestora do time de Desenvolvedores.
 
 🥰 Ainda é o começo dessa jornada tecnológica, buscando aprender cada vez mais sobre programação, ferramentas, linguagens e desenvolvimento ágil. Vou me jogando nos desafios e não vejo limite para me desenvolver em algo novo. 
 
