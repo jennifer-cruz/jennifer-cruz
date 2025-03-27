@@ -13,7 +13,7 @@ Hoje, sou Desenvolvedora Java na F1RST Digital Services - Santander ♨️, onde
 - Mentoria para a galera entrarem no mundo Tech;
 - Gestora do time de Desenvolvedores.
 
-🏆 Estou sempre em busca de novos aprendizados, seja em programação, ferramentas, linguagens, design ou até mesmo em social media. Encaro desafios sem medo, pois sei que cada um deles é uma oportunidade para crescer e evoluir.
+🏆 Estou sempre em busca de novos aprendizados. Encaro desafios sem medo, pois sei que cada um deles é uma oportunidade para crescer e evoluir.
 
 <!-- <div align="center">
   <a href="https://github.com/jennifer-cruz">
