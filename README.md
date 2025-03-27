@@ -1,20 +1,19 @@
 # Hello, World! 👩🏽‍💻
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FE2E9A&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Full+Stack+Júnior+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FE2E9A&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Full+Stack+!)](https://git.io/typing-svg)
 
-👋 seja bem vindo(a) ao meu perfil! 
+Olá, sou Jennifer! Bem vindo(a) ao meu perfil. ❤️
 
-🔎 Atualmente estou me desafiando e trilhando meu caminho como Desenvolvedora Full stack, tenho foco em Front-end, mas estou me aventurando em aprender sobre Back-end e Mobile, inclusive estou estudando também para entender como funciona Java. 😮😮
+Minha jornada na tecnologia começou na adolescência, com meu primeiro computador. Foi quando comecei a explorar códigos para criar layouts e designs, o que despertou minha paixão pela área. Embora tenha me formado em Recursos Humanos, me inspirei em um desenvolvedor e retornei ao mundo tech, onde encontrei meu verdadeiro propósito.
 
-👩‍💻 Estou atuando em 2 programas voluntários:
+Hoje, sou Desenvolvedora Java na F1RST Digital Services - Santander ♨️, onde continuo a expandir meus conhecimentos e a aplicar tudo o que aprendi em ambientes reais de trabalho.
+
+
+👩‍💻 Já atuei em dois projetos voluntários:
 - Mentoria para a galera entrarem no mundo Tech;
 - Gestora do time de Desenvolvedores.
 
-🥰 Ainda é o começo dessa jornada tecnológica, buscando aprender cada vez mais sobre programação, ferramentas, linguagens e desenvolvimento ágil. Vou me jogando nos desafios e não vejo limite para me desenvolver em algo novo. 
-
-💪 Acredito no meu potencial para ir cada vez mais longe na área de TI. A cada dia venho amadurecendo profissionalmente e aprendendo coisas interessantes para o meu progresso.
-
-🏆 Destaco-me pela minha proatividade, criatividade, organização, responsabilidade, flexibilidade, busca de crescimento e aprendizados.
+🏆 Estou sempre em busca de novos aprendizados, seja em programação, ferramentas, linguagens, design ou até mesmo em social media. Encaro desafios sem medo, pois sei que cada um deles é uma oportunidade para crescer e evoluir.
 
 <!-- <div align="center">
   <a href="https://github.com/jennifer-cruz">
